@@ -1,2 +1,3 @@
-# PersonalSite
-Agyo's personal website
+### Agyo's Personal Site
+
+This site contains a collection of projects i have been working on mostly for fun.
